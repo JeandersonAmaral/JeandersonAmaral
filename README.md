@@ -1,6 +1,7 @@
 ### Olá eu sou Jeanderson Amaral 👋
 
-🌱 Graduando em Eng. de Software pela Universidade de Vaassouras
+Estudante de Eng. de Software pela Universidade de Vassouras
+Designer Gráfico e Web
 
 <div align="center">
   <a href="https://github.com/JeandersonAmaral">
