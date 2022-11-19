@@ -1,6 +1,6 @@
 ### Olá eu sou Jeanderson Amaral 👋
 
-Estudante de Eng. de Software pela Universidade de Vassouras
+Estudante de Eng. de Software pela Universidade de Vassouras <br>
 Designer Gráfico e Web
 
 <div align="center">
