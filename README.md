@@ -26,11 +26,10 @@ Designer Gráfico e Web
       <a href="https://api.whatsapp.com/send?phone=5521901100393&text=Ol%C3%A1%2C%20gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%20designer%20e%20propaganda!%20%F0%9F%98%84" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
        <a href="https://www.facebook.com/jeanderson.pn" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
+  
   ##
   
 ![Snake animation](https://github.com/JeandersonAmaral/JeandersonAmaral/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
   
 
 
