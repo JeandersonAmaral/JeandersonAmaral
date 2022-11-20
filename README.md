@@ -5,10 +5,11 @@ Designer Gráfico | Web Designer | Cadista
 
 <img width="200px" align="right" src="https://cdn.discordapp.com/attachments/761373678667300885/1043721829623287828/giphy.gif"></img>
 
-<div align="center" >
+<div align="left" >
   <a href="https://github.com/JeandersonAmaral">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=JeandersonAmaral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeandersonAmaral&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JeandersonAmaral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeandersonAmaral&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
   
 <div style="display: inline_block" align="center" ><br>
