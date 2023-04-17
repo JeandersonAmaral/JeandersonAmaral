@@ -1,7 +1,7 @@
 ### Olá eu sou Jeanderson Amaral 🤙🏼
 
 Graduando em Eng. de Software pela Universidade de Vassouras <br>
-Designer Gráfico | Web Designer | Cadista
+Designer Gráfico | Web Designer | Progamador Júnior
 
 <img width="150px" align="right" src="https://cdn.discordapp.com/attachments/761373678667300885/1043721829623287828/giphy.gif"></img>
 
