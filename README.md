@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/JeandersonAmaral)
+
 ## Olá eu sou Jeanderson Amaral 🤙🏼
 
 Graduando em Eng. de Software pela Universidade de Vassouras <br>
