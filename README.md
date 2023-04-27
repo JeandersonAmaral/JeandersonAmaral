@@ -7,12 +7,8 @@ Designer Gráfico | Web Designer | Progamador Júnior
 
 <img width="150px" align="right" src="https://cdn.discordapp.com/attachments/761373678667300885/1043721829623287828/giphy.gif"></img>
 
-<div align="left" >
-  <a href="https://github.com/JeandersonAmaral">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=JeandersonAmaral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeandersonAmaral&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeandersonAmaral&count_private=true&show_icons=true&theme=github_dark_dimmed&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeandersonAmaral&theme=github_dark_dimmed&layout=compact)
   
 <div style="display: inline_block" align="center" ><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
