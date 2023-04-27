@@ -5,7 +5,7 @@
 Graduando em Eng. de Software pela Universidade de Vassouras <br>
 Designer Gráfico | Web Designer | Progamador Júnior
 
-<img width="150px" align="right" src="https://cdn.discordapp.com/attachments/761373678667300885/1043721829623287828/giphy.gif"></img>
+<img width="200px" align="right" src="https://cdn.discordapp.com/attachments/761373678667300885/1043721829623287828/giphy.gif"></img>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeandersonAmaral&count_private=true&show_icons=true&theme=github_dark_dimmed&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeandersonAmaral&theme=github_dark_dimmed&layout=compact)
